@@ -1,0 +1,43 @@
+
+<svg id="svg_12" data-name="SVG 12" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448.06 391.04">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Summer);
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: url(#Sky);
+      }
+    </style>
+    <linearGradient id="Sky" x1="2.89" y1="195.52" x2="445.17" y2="195.52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cce0f4"/>
+      <stop offset=".06" stop-color="#c2dcf2"/>
+      <stop offset=".17" stop-color="#a9d2ee"/>
+      <stop offset=".31" stop-color="#7fc2e7"/>
+      <stop offset=".46" stop-color="#46abdd"/>
+      <stop offset=".57" stop-color="#1e9cd7"/>
+      <stop offset=".87" stop-color="#0075be"/>
+      <stop offset=".99" stop-color="#005b97"/>
+    </linearGradient>
+    <radialGradient id="Summer" cx="224.03" cy="188.52" fx="224.03" fy="188.52" r="173.79" gradientTransform="translate(155.25 473.12) rotate(-116.49)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".09" stop-color="#ffecd8"/>
+      <stop offset=".21" stop-color="#ffd4a7"/>
+      <stop offset=".33" stop-color="#ffc07d"/>
+      <stop offset=".46" stop-color="#ffb05a"/>
+      <stop offset=".59" stop-color="#ffa340"/>
+      <stop offset=".72" stop-color="#ff9a2d"/>
+      <stop offset=".86" stop-color="#ff9421"/>
+      <stop offset="1" stop-color="#ff931e"/>
+    </radialGradient>
+  </defs>
+  <polygon class="cls-2" points="332.03 388.52 110.89 385.55 2.89 192.55 116.03 2.52 337.17 5.49 445.17 198.49 332.03 388.52"/>
+  <polygon class="cls-1" points="318.59 30.77 407.92 191.53 313.37 349.28 129.47 346.27 40.14 185.5 134.69 27.76 318.59 30.77"/>
+</svg>

@@ -1,0 +1,20 @@
+
+<svg id="svg_15" data-name="SVG 15" viewBox="0 0 306 306">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 86px;
+      }
+
+      .cls-2 {
+        fill: #c7b299;
+        opacity: .65;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(114 171)"><tspan x="0" y="0">RL</tspan></text>
+  <circle class="cls-2" cx="153" cy="153" r="152.5"/>
+</svg>

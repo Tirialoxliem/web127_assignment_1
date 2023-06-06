@@ -1,0 +1,231 @@
+.navbar-nav .nav-item .nav-link {
+  color: #f70409;
+  background-color: #45c7e8;
+  -webkit-box-shadow: -5px 5px;
+  box-shadow: -5px 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-decoration: none;
+  float: left;
+}
+.navbar .topnav {
+  position: fixed;
+  color: #f70409;
+  padding: 2px;
+  margin-left: 5px;
+  margin-right: 5px;
+  float: left;
+}
+.navbar-nav .nav-item .nav-link:hover {
+  background-color: #084ee5;
+  color: #bae508;
+}
+li {
+  display: inline;
+}
+.image {
+  width: 30%;
+}
+.image2 {
+  width: 10%;
+}
+.image3 {
+  width: 70%;
+}
+.cls-1 {
+  fill: #ff7bac;
+}
+.cls-2 {
+  fill: red;
+}
+.cls-3 {
+  fill: lime;
+}
+.cls-4 {
+  fill: #fbb03b;
+}
+.cls-5 {
+  fill: url(#Sky);
+}
+.cls-6 {
+  fill: none;
+}
+
+.cls-6b {
+  fill: #9ddcf9;
+  opacity: 0.4;
+}
+
+.cls-6c {
+  fill: #00427e;
+}
+
+.cls-6d {
+  fill: url(#Jive);
+}
+.cls-7 {
+  fill: #603813;
+}
+.cls-8,
+.cls-8b,
+.cls-8c {
+  mix-blend-mode: multiply;
+}
+
+.cls-8,
+.cls-8d {
+  fill: #e9ddb7;
+}
+
+.cls-8e,
+.cls-8c {
+  fill: #a6d0e4;
+}
+
+.cls-8b,
+.cls-8f {
+  fill: #c6dd7f;
+}
+
+.cls-8g {
+  fill: none;
+}
+
+.cls-8h {
+  fill: url(#Alyssa);
+}
+.cls-9 {
+  fill: url(#Golden_Ring);
+}
+
+.cls-9b {
+  fill: #0071bc;
+}
+.cls-10 {
+  stroke-width: 52px;
+}
+
+.cls-10,
+.cls-10b {
+  fill: #4d4d4d;
+  stroke: #000;
+  stroke-miterlimit: 10;
+}
+
+.cls-10b {
+  stroke-width: 70px;
+}
+.cls-11 {
+  fill: url(#Summer);
+}
+
+.cls-11,
+.cls-11b {
+  stroke: #000;
+  stroke-miterlimit: 10;
+  stroke-width: 5px;
+}
+
+.cls-11b {
+  fill: url(#Orchid);
+}
+.cls-12 {
+  fill: url(#Summer);
+}
+
+.cls-12,
+.cls-12b {
+  stroke: #000;
+  stroke-miterlimit: 10;
+  stroke-width: 5px;
+}
+
+.cls-12b {
+  fill: url(#Sky);
+}
+.cls-13 {
+  fill: red;
+}
+
+.cls-13,
+.cls-13b {
+  stroke: #000;
+  stroke-miterlimit: 10;
+  stroke-width: 5px;
+}
+
+.cls-13b {
+  fill: url(#Sky);
+}
+.cls-14 {
+  fill: #006837;
+  stroke: #000;
+  stroke-miterlimit: 10;
+  stroke-width: 5px;
+}
+
+.cls-14b {
+  fill: #ff0;
+}
+.cls-15 {
+  font-family: MyriadPro-Regular, "Myriad Pro";
+  font-size: 86px;
+}
+
+.cls-15b {
+  fill: #c7b299;
+  opacity: 0.65;
+  stroke: #000;
+  stroke-miterlimit: 10;
+}
+.cls-16 {
+  fill: url(#linear-gradient);
+  stroke: #000;
+  stroke-miterlimit: 10;
+}
+.cls-17 {
+  fill: #ff931e;
+}
+
+.cls-17,
+.cls-17b {
+  stroke: #000;
+  stroke-miterlimit: 10;
+}
+
+.cls-17b {
+  fill: #603813;
+}
+.cls-18 {
+  fill: lime;
+}
+
+.cls-18,
+.cls-18b,
+.cls-18c,
+.cls-18d {
+  stroke: #000;
+  stroke-miterlimit: 10;
+}
+
+.cls-18b {
+  fill: #9e005d;
+}
+
+.cls-18c {
+  fill: #ff0;
+}
+
+.cls-18d {
+  fill: #603813;
+}
+.cls-18 {
+  fill: lime;
+}
+p {
+  font-size: 24px;
+}

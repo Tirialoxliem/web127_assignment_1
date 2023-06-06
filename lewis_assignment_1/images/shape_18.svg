@@ -1,0 +1,31 @@
+
+<svg id="svg_18" data-name="SVG 18" viewBox="0 0 492.33 549.64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: lime;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #9e005d;
+      }
+
+      .cls-3 {
+        fill: #ff0;
+      }
+
+      .cls-4 {
+        fill: #603813;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-4" points="397.38 532.55 245.98 453.24 94.44 532.29 123.52 364.61 1.08 245.73 170.45 221.41 246.32 68.9 321.92 221.55 491.25 246.16 368.6 364.82 397.38 532.55"/>
+  <polygon class="cls-3" points="243.99 184.64 137.71 208.72 63.71 128.72 95.99 24.64 202.27 .55 276.27 80.55 243.99 184.64"/>
+  <circle class="cls-1" cx="393.99" cy="391.64" r="78.5"/>
+  <rect class="cls-2" x="133.49" y="420.14" width="129" height="129"/>
+</svg>

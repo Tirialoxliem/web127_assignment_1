@@ -1,0 +1,21 @@
+
+<svg id="svg_17" data-name="SVG 17" viewBox="0 0 876 279.59">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff931e;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #603813;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-1" cx="438" cy="157.09" rx="437.5" ry="122"/>
+  <polygon class="cls-2" points="335 216.59 210.26 234.64 132.26 135.64 179 18.59 303.74 .54 381.74 99.54 335 216.59"/>
+</svg>

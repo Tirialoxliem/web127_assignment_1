@@ -1,0 +1,48 @@
+
+<svg id="svg_9" data-name="SVG 9" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 498 180">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Golden_Ring);
+      }
+
+      .cls-2 {
+        fill: #0071bc;
+      }
+    </style>
+    <radialGradient id="Golden_Ring" data-name="Golden Ring" cx="249" cy="90" fx="249" fy="90" r="185.86" gradientUnits="userSpaceOnUse">
+      <stop offset=".74" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".76" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".77" stop-color="#fff" stop-opacity=".04"/>
+      <stop offset=".79" stop-color="#fff" stop-opacity=".1"/>
+      <stop offset=".79" stop-color="#fff" stop-opacity=".18"/>
+      <stop offset=".8" stop-color="#fff" stop-opacity=".28"/>
+      <stop offset=".81" stop-color="#fff" stop-opacity=".4"/>
+      <stop offset=".82" stop-color="#fff" stop-opacity=".5"/>
+      <stop offset=".82" stop-color="#dbc01f"/>
+      <stop offset=".83" stop-color="#f1dc3a"/>
+      <stop offset=".84" stop-color="#f5e13f"/>
+      <stop offset=".84" stop-color="#dbc01f"/>
+      <stop offset=".85" stop-color="#e1ca45"/>
+      <stop offset=".87" stop-color="#e9d876"/>
+      <stop offset=".89" stop-color="#efe4a0"/>
+      <stop offset=".91" stop-color="#f5eec2"/>
+      <stop offset=".93" stop-color="#f9f5dd"/>
+      <stop offset=".95" stop-color="#fcfaf0"/>
+      <stop offset=".98" stop-color="#fefdfb"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+  <g>
+    <path class="cls-1" d="m90,178.5C41.2,178.5,1.5,138.8,1.5,90S41.2,1.5,90,1.5h318c48.8,0,88.5,39.7,88.5,88.5s-39.7,88.5-88.5,88.5H90Z"/>
+    <path d="m408,3c47.97,0,87,39.03,87,87s-39.03,87-87,87H90c-47.97,0-87-39.03-87-87S42.03,3,90,3h318m0-3H90C40.29,0,0,40.29,0,90h0c0,49.71,40.29,90,90,90h318c49.71,0,90-40.29,90-90h0c0-49.71-40.29-90-90-90h0Z"/>
+  </g>
+  <g>
+    <circle class="cls-2" cx="249" cy="90" r="88.5"/>
+    <path d="m249,3c47.97,0,87,39.03,87,87s-39.03,87-87,87-87-39.03-87-87S201.03,3,249,3m0-3c-49.71,0-90,40.29-90,90s40.29,90,90,90,90-40.29,90-90S298.71,0,249,0h0Z"/>
+  </g>
+  <g>
+    <circle cx="248" cy="88" r="26.5"/>
+    <path d="m248,63c13.79,0,25,11.21,25,25s-11.21,25-25,25-25-11.21-25-25,11.21-25,25-25m0-3c-15.46,0-28,12.54-28,28s12.54,28,28,28,28-12.54,28-28-12.54-28-28-28h0Z"/>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+
+<svg id="svg_5" data-name="SVG 5" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 320 351.13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Sky);
+      }
+    </style>
+    <linearGradient id="Sky" x1="3.67" y1="175.56" x2="316.33" y2="175.56" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cce0f4"/>
+      <stop offset=".06" stop-color="#c2dcf2"/>
+      <stop offset=".17" stop-color="#a9d2ee"/>
+      <stop offset=".31" stop-color="#7fc2e7"/>
+      <stop offset=".46" stop-color="#46abdd"/>
+      <stop offset=".57" stop-color="#1e9cd7"/>
+      <stop offset=".87" stop-color="#0075be"/>
+      <stop offset=".99" stop-color="#005b97"/>
+    </linearGradient>
+  </defs>
+  <polygon class="cls-1" points="19.22 274.8 3.67 103.26 144.45 4.03 300.78 76.33 316.33 247.87 175.55 347.1 19.22 274.8"/>
+  <path d="m144.82,8.05l152.66,70.61,15.18,167.51-137.48,96.91L22.52,272.47,7.34,104.96,144.82,8.05m-.73-8.05L0,101.56l15.91,175.56,160,74,144.09-101.56-15.91-175.56L144.09,0h0Z"/>
+</svg>

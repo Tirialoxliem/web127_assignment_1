@@ -1,0 +1,32 @@
+
+<svg id="svg_13" data-name="SVG 13" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 559 228">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: red;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: url(#Sky);
+      }
+    </style>
+    <linearGradient id="Sky" x1="2.5" y1="114" x2="556.5" y2="114" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cce0f4"/>
+      <stop offset=".06" stop-color="#c2dcf2"/>
+      <stop offset=".17" stop-color="#a9d2ee"/>
+      <stop offset=".31" stop-color="#7fc2e7"/>
+      <stop offset=".46" stop-color="#46abdd"/>
+      <stop offset=".57" stop-color="#1e9cd7"/>
+      <stop offset=".87" stop-color="#0075be"/>
+      <stop offset=".99" stop-color="#005b97"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-2" x="2.5" y="2.5" width="554" height="223" rx="22" ry="22"/>
+  <polygon class="cls-1" points="380 90 330 139.49 342.42 208.73 279.9 176.47 217.88 209.67 229.25 140.25 178.5 91.53 248.04 80.89 278.7 17.57 310.31 80.41 380 90"/>
+</svg>

@@ -1,0 +1,40 @@
+
+<svg id="svg_11" data-name="SVG 11" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 421.61 488.32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Summer);
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: url(#Orchid);
+      }
+    </style>
+    <linearGradient id="Orchid" x1="5.37" y1="288.37" x2="416.23" y2="288.37" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff7bac"/>
+      <stop offset=".22" stop-color="#ff7bac" stop-opacity=".76"/>
+      <stop offset=".6" stop-color="#ff7bac" stop-opacity=".36"/>
+      <stop offset=".87" stop-color="#ff7bac" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#ff7bac" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="Summer" cx="210.8" cy="46" fx="210.8" fy="46" r="43.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".09" stop-color="#ffecd8"/>
+      <stop offset=".21" stop-color="#ffd4a7"/>
+      <stop offset=".33" stop-color="#ffc07d"/>
+      <stop offset=".46" stop-color="#ffb05a"/>
+      <stop offset=".59" stop-color="#ffa340"/>
+      <stop offset=".72" stop-color="#ff9a2d"/>
+      <stop offset=".86" stop-color="#ff9421"/>
+      <stop offset="1" stop-color="#ff931e"/>
+    </radialGradient>
+  </defs>
+  <polygon class="cls-2" points="210.8 93 274.28 221.63 416.23 242.25 313.52 342.37 337.77 483.75 210.8 417 83.84 483.75 108.09 342.37 5.37 242.25 147.32 221.63 210.8 93"/>
+  <circle class="cls-1" cx="210.8" cy="46" r="43.5"/>
+</svg>

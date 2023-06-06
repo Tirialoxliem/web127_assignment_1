@@ -1,0 +1,28 @@
+
+<svg id="svg_16" data-name="SVG 16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566 171">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1=".5" y1="85.5" x2="565.5" y2="85.5" gradientUnits="userSpaceOnUse">
+      <stop offset=".17" stop-color="#39b54a"/>
+      <stop offset=".21" stop-color="#38b44f"/>
+      <stop offset=".25" stop-color="#35b15d"/>
+      <stop offset=".29" stop-color="#30ad76"/>
+      <stop offset=".33" stop-color="#29a798"/>
+      <stop offset=".38" stop-color="#219fc4"/>
+      <stop offset=".4" stop-color="#1e9cd7"/>
+      <stop offset=".48" stop-color="#1895d2"/>
+      <stop offset=".6" stop-color="#0981c6"/>
+      <stop offset=".66" stop-color="#0075be"/>
+      <stop offset=".7" stop-color="#0071b9"/>
+      <stop offset=".75" stop-color="#0068aa"/>
+      <stop offset=".79" stop-color="#005b97"/>
+    </linearGradient>
+  </defs>
+  <ellipse class="cls-1" cx="283" cy="85.5" rx="282.5" ry="85"/>
+</svg>

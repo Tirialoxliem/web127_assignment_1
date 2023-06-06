@@ -1,0 +1,12 @@
+
+<svg id="svg_2" data-name="SVG 2" viewBox="0 0 578 279">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="1" y="1" width="576" height="277"/>
+  <path d="m576,2v275H2V2h574m2-2H0v279h578V0h0Z"/>
+</svg>
